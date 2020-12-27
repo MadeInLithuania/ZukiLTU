@@ -4,4 +4,7 @@
   <p align ="center">Here you can find my work stuff ! ✨</p>
 </div>
 
-<p>(I'm lazy to do the readme)</p>
+<p><img src="https://img.shields.io/badge/Languages-C%2C%20C%2B%2B%2C%20C%23-blue" alt=""></p>
+<p><img src="https://img.shields.io/badge/Languages-HTML%2CCSS%2CJS-important" alt=""></p>
+<p><img src="https://img.shields.io/badge/Databases-MySQL-9cf" alt=""></p>
+<p><img src="" alt=""></p>
