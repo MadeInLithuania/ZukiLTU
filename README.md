@@ -9,7 +9,7 @@
 <p><img src="https://img.shields.io/badge/Databases-MySQL-9cf" alt=""></p>
 <p><img src="" alt=""></p>
 
-<h2>My sooner languages :</h2>
+<h2>Languages to learn :</h2>
 <ul>
   <li>Kotlin</li>
   <li>Java</li>
