@@ -6,6 +6,7 @@
 
 <p><img src="https://img.shields.io/badge/Languages-C%2C%20C%2B%2B%2C%20C%23-blue" alt=""></p>
 <p><img src="https://img.shields.io/badge/Languages-HTML%2CCSS%2CJS-important" alt=""></p>
+<p><img src="https://img.shields.io/badge/Languages-PHP-blue" alt=""></p>
 <p><img src="https://img.shields.io/badge/Databases-MySQL-9cf" alt=""></p>
 <p><img src="" alt=""></p>
 
@@ -14,3 +15,8 @@
   <li>Kotlin</li>
   <li>Java</li>
  </ul>
+ 
+<h2>My future projects :</h2>
+  <ul>
+  <li>Egg Game</li>
+  </ul>
