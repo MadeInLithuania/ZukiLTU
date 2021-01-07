@@ -10,7 +10,7 @@
 <p><img src="https://img.shields.io/badge/Databases-MySQL-9cf" alt=""></p>
 <p><img src="" alt=""></p>
 
-<div id="learn" style="border:2px solid white;">
+<div id="learn" style="background: #151515;">
   <h2>Languages to learn :</h2>
   <ul>
     <li>Kotlin</li>
