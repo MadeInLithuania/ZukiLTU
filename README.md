@@ -10,13 +10,15 @@
 <p><img src="https://img.shields.io/badge/Databases-MySQL-9cf" alt=""></p>
 <p><img src="" alt=""></p>
 
-<h2>Languages to learn :</h2>
-<ul>
-  <li>Kotlin</li>
-  <li>Java</li>
- </ul>
- 
-<h2>My future projects :</h2>
+<div id="learn" style="border:2px solid white;">
+  <h2>Languages to learn :</h2>
   <ul>
-  <li>Egg Game</li>
-  </ul>
+    <li>Kotlin</li>
+    <li>Java</li>
+   </ul>
+
+  <h2>My future projects :</h2>
+    <ul>
+    <li>Egg Game</li>
+    </ul>
+</div>
