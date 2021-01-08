@@ -20,5 +20,6 @@
   <h2>My future projects :</h2>
     <ul>
     <li>Egg Game</li>
+    <li>My own painting software</li>
     </ul>
 </div>
