@@ -14,7 +14,7 @@
   <h2>Languages to learn :</h2>
   <ul>
     <li>Kotlin</li>
-    <li>Java</li>
+    <li>Java</li>v
    </ul>
 
   <h2>My future projects :</h2>
