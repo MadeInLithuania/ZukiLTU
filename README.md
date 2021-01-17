@@ -21,7 +21,7 @@
     <ul>
     <li>Egg Game</li>
     <li>My own painting software</li>
-    </ul>g
+    </ul>
 </div>
 
 
