@@ -24,5 +24,5 @@
     <li>Home machine interface</li>
     </ul>
 </div>
-g
+
 
