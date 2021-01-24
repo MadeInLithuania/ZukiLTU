@@ -24,5 +24,4 @@
     <li>User - machine interface</li>
     </ul>
 </div>
-jvhbk
 
