@@ -21,7 +21,6 @@
     <ul>
     <li>Egg Game</li>
     <li>My own painting software</li>
-    <li>User - machine interface</li>
     </ul>
 </div>
 
