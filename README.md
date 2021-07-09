@@ -10,17 +10,3 @@
 <p><img src="https://img.shields.io/badge/Databases-MySQL-9cf" alt=""></p>
 <p><img src="https://img.shields.io/badge/JS-Discord.JS%2C%20NodeJS-yellow" alt=""></p>
 
-<div id="learn" style="background: #151515;">
-  <h2>Languages to learn :</h2>
-  <ul>
-    <li>Kotlin</li>
-    <li>Java</li>
-   </ul>
-
-  <h2>My future projects :</h2>
-    <ul>
-    <li>Egg Game</li>
-    <li>My own painting software</li>
-    </ul>
-</div>
-
